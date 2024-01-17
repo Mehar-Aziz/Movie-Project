@@ -1,5 +1,5 @@
 import React from "react";
-import './';
+import './MovieCard.css';
 
 const IMGPATH = 'https://image.tmdb.org/t/p/w1280';
 
